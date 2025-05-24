@@ -4,6 +4,7 @@
 
 ## 优势
 - 可直接访问触发器的全局变量
+
 ## 缺点
 - JS语言支持不完整
     - 不支持JSON
@@ -15,7 +16,7 @@
 
 ## 对象列表
 - [Game]()
-- [InfoBox]()
+- [InfoBox](./Objects/InfoBox.md)
 - [Level]()
 - [Sound]()
 - [String]()
