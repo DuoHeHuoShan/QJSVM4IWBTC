@@ -2,6 +2,8 @@
 
 > 一个纯IWBTC触发器实现的Quick JS虚拟机
 
+[参考文档](https://DuoHeHuoShan.github.io/docs/index.html) [教程](https://DuoHeHuoShan.github.io/tutorial/index.html)
+
 ## 优势
 - 可直接访问触发器的全局变量
 
@@ -13,12 +15,3 @@
 - 效率低
     - 需要编译成字节码
     - 运行效率低下
-
-## 对象列表
-- [Game]()
-- [InfoBox](./Objects/InfoBox.md)
-- [Level]()
-- [Sound]()
-- [String]()
-- [Unit]()
-- [VarManager]()

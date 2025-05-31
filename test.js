@@ -1,0 +1,1 @@
+InfoBox.AddInfo("Hello World!", 3);
