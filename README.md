@@ -2,7 +2,7 @@
 
 > 一个纯IWBTC触发器实现的Quick JS虚拟机
 
-[参考文档](https://DuoHeHuoShan.github.io/docs/index.html) [教程](https://DuoHeHuoShan.github.io/tutorial/index.html)
+[参考文档](https://duohehuoshan.github.io/QJSVM4IWBTC/docs/index.html) [教程](https://duohehuoshan.github.io/QJSVM4IWBTC/tutorial/index.html)
 
 ## 优势
 - 可直接访问触发器的全局变量
